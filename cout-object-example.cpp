@@ -9,7 +9,7 @@ using namspace std;
 
 int (main) {
   cout << "This is my first C++ object. \n"
-    "Enjoy your day! \n";
+    "Have a great day! \n";
   cout << 1 + 2;  
   return 0;
 }
